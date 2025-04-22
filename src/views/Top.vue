@@ -1,6 +1,6 @@
 <template>
   <div class="flex flex-col items-center justify-center h-screen bg-gradient-to-r from-[#7cc7e8] via-[#add8e6] to-[#7cc7e8]">
-    <h1 class="text-4xl font-bold text-white mb-8">日向坂46 推しメン診断(beta)</h1>
+    <h1 class="text-center text-4xl font-bold text-white mb-8">日向坂46 推しメン診断(beta)</h1>
     <router-link to="/question">
       <button
         @click="resetAndStart"
