@@ -2,7 +2,7 @@ export const members = [
   {
     name: "金村美玖",
     categories: {
-      モデル: 0.8,
+      モデル・ビジュアル: 0.8,
       バラエティ: 0.2,
     },
     image: "/images/kanemura.jpg", 
