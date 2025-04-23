@@ -6,7 +6,7 @@ export const members = [
       バラエティ: 0.2,
     },
     image: "/images/kanemura.jpg", 
-    description: "ちょっと負け癖があるのはご愛敬。"
+    description: "クールビューティーアイドル。ちょっと負け癖があるのはご愛敬。"
   },
   {
     name: "河田陽菜",
@@ -15,7 +15,7 @@ export const members = [
       天然: 0.3,
     },
     image: "/images/hina.jpg",
-    description: ""
+    description: "おっとりした雰囲気で周囲を和ませる存在。"
   },
   {
     name: "小坂菜緒",
@@ -24,7 +24,7 @@ export const members = [
       王道アイドル: 0.4,
     },
     image: "/images/nao.jpg",
-    description: ""
+    description: "クールな外見と確かなパフォーマンスで魅了。日向坂46のセンター！"
   },
   {
     name: "富田鈴花",
@@ -33,7 +33,7 @@ export const members = [
       歌唱力が高い: 0.4,
     },
     image: "/images/suzuka.jpg",
-    description: ""
+    description: "明るいキャラクターで番組を盛り上げるオールラウンダー。こちらも負け癖が強い。"
   },
   {
     name: "松田好花",
@@ -42,7 +42,7 @@ export const members = [
       歌唱力が高い: 0.3,
     },
     image: "/images/konoka.jpg",
-    description: ""
+    description: "こちらも多才な才能で様々な場面で活躍するオールラウンダー。ややクレーム気質。"
   },
   {
     name: "上村ひなの",
@@ -51,7 +51,7 @@ export const members = [
       癒し系: 0.3,
     },
     image: "/images/hinano.jpg",
-    description: ""
+    description: "天才的な発想と純粋な魅力でファンを惹きつける。"
   },
   {
     name: "髙橋未来虹",
@@ -60,7 +60,7 @@ export const members = [
       知的・しっかり者: 0.4,
     },
     image: "/images/mikuni.jpg",
-    description: ""
+    description: "高身長を活かしたスタイルと明るい性格で人気上昇中。日向坂46の新キャプテン。"
   },
   {
     name: "森本茉莉",
@@ -69,7 +69,7 @@ export const members = [
       天然: 0.3,
     },
     image: "/images/marie.jpg",
-    description: ""
+    description: "天真爛漫なキャラクターで番組を盛り上げる。激ヤバお嬢様アイドル。"
   },
   {
     name: "山口陽世",
@@ -78,7 +78,7 @@ export const members = [
       バラエティ: 0.4,
     },
     image: "/images/haruyo.jpg",
-    description: ""
+    description: "アクティブな一面と可愛らしさを兼ね備える。"
   },
   {
     name: "石塚瑶季",
@@ -87,7 +87,7 @@ export const members = [
       バラエティ: 0.6,
     },
     image: "/images/tamaki.jpg",
-    description: ""
+    description: "いつでも元気!柔らかな笑顔で周囲を和ませる存在。"
   },
   {
     name: "小西夏菜実",
@@ -96,7 +96,7 @@ export const members = [
       バラエティ: 0.3,
     },
     image: "/images/nanami.jpg",
-    description: ""
+    description: "落ち着いた雰囲気と知的な魅力で注目を集める。"
   },
   {
     name: "清水理央",
@@ -105,7 +105,7 @@ export const members = [
       王道アイドル: 0.4,
     },
     image: "/images/rio.jpg",
-    description: ""
+    description: "正統派の美しさとスタイルでファンを魅了。"
   },
   {
     name: "正源司陽子",
@@ -114,7 +114,7 @@ export const members = [
       歌唱力が高い: 0.3,
     },
     image: "/images/youko.jpg",
-    description: ""
+    description: "自然体の魅力で親しみやすさが光る。"
   },
   {
     name: "竹内希来里",
@@ -123,7 +123,7 @@ export const members = [
       癒し系: 0.5,
     },
     image: "/images/kirari.jpg",
-    description: ""
+    description: "明るい性格と元気なパフォーマンスで注目。"
   },
   {
     name: "平尾帆夏",
@@ -132,7 +132,7 @@ export const members = [
       知的・しっかり者: 0.6,
     },
     image: "/images/hiraho.jpg",
-    description: ""
+    description: "透き通る歌声で聴く人を魅了する実力派。"
   },
   {
     name: "平岡海月",
@@ -141,7 +141,7 @@ export const members = [
       歌唱力が高い: 0.5,
     },
     image: "/images/mitsuki.jpg",
-    description: ""
+    description: "クールな外見と知的な雰囲気で人気上昇中。"
   },
   {
     name: "藤嶌果歩",
@@ -150,7 +150,7 @@ export const members = [
       癒し系: 0.2,
     },
     image: "/images/kaho.jpg",
-    description: ""
+    description: "正統派の可愛らしさでファンを魅了。"
   },
   {
     name: "宮地すみれ",
@@ -159,7 +159,7 @@ export const members = [
       ダンスが上手い: 0.2,
     },
     image: "/images/sumire.jpg",
-    description: ""
+    description: "柔らかな雰囲気と自然体の魅力で注目を集める。"
   },
   {
     name: "山下葉留花",
@@ -168,7 +168,7 @@ export const members = [
       バラエティ: 0.3,
     },
     image: "/images/haruka.jpg",
-    description: ""
+    description: "明るいキャラクターで番組を盛り上げるムードメーカー。"
   },
   {
     name: "渡辺莉奈",
@@ -177,6 +177,6 @@ export const members = [
       王道アイドル: 0.4,
     },
     image: "/images/rina.jpg",
-    description: ""
+    description: "人生2週目疑惑があるほどのしっかり者。"
   },
 ];
