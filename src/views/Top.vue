@@ -16,7 +16,7 @@
       {{ history.date }} {{ history.content }}
     </div>
     <div class="mt-4 text-white">
-      1.0.0-beta
+      2.0.0-beta
     </div>
   </div>
 </template>
