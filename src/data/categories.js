@@ -7,9 +7,9 @@ export const categories = {
     label: "バラエティ",
     color: "#FACC15", // 黄色系
   },
-  "不思議系": {
-    label: "不思議系",
-    color: "#A78BFA", // 紫系
+  "ぶりっ子": {
+    label: "ぶりっ子",
+    color: "#F3A1B2", // 聴色
   },
   "知的・しっかり者": {
     label: "知的・しっかり者",
