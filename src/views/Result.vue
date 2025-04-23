@@ -8,8 +8,15 @@ const store = useResultStore();
 const router = useRouter();
 
 const { top, second } = calculateRecommendation();
-const topCategory = store.getTopCategory();
-const secondCategory = store.getTopCategory(2); // 次点も表示する想定
+
+const getTopMemberCategory = (member) => {
+  if (!member || !member.categories) return null;
+  return Object.entries(member.categories)
+    .sort((a, b) => b[1] - a[1])[0]?.[0] || null;
+};
+
+const topCategory = getTopMemberCategory(top);
+const secondCategory = getTopMemberCategory(second);
 const getCategoryInfo = (cat) => categories[cat] || { label: cat, color: '#ccc' };
 
 const retry = () => {
@@ -43,7 +50,7 @@ const retry = () => {
 
     <transition name="fade" appear>
       <div v-if="second" class="text-center mt-8">
-        <h4 class="text-lg font-medium">次点のメンバー</h4>
+        <h4 class="text-lg font-medium">このメンバーもオススメ</h4>
         <div
           class="text-white py-2 px-4 rounded-xl inline-block mt-1"
           :style="{ backgroundColor: getCategoryInfo(secondCategory).color }"
