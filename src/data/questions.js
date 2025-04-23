@@ -4,23 +4,23 @@ export const categorizedQuestions = {
       text: "理想のアイドルは？",
       options: [
         { text: "正統派でキラキラ", category: "王道アイドル" },
-        { text: "ユニークで個性的", category: "不思議系" },
+        { text: "歌って踊れる", category: "歌唱力が高い" },
       ],
     },
     {
       text: "アイドル活動のやりがいは？",
       options: [
         { text: "ファンの笑顔を見られること", category: "王道アイドル" },
-        { text: "自分を磨くことができること", category: "知的・しっかり者" },
+        { text: "ステージ上で自分の歌声を届けられること", category: "歌唱力が高い" },
       ],
     },
   ],
   "バラエティ": [
     {
-      text: "バラエティ番組で面白いのは？",
+      text: "ひなあいで面白い企画はどっち？",
       options: [
-        { text: "モノマネ", category: "バラエティ" },
-        { text: "天然ボケトーク", category: "不思議系" },
+        { text: "THE タイマン", category: "バラエティ" },
+        { text: "ぶりっ子大喜利", category: "ぶりっ子" },
       ],
     },
     {
@@ -30,29 +30,22 @@ export const categorizedQuestions = {
         { text: "みんなを見守る", category: "癒し系" },
       ],
     },
-    {
-      text: "面白いトークをするとき、どんなスタイルが好き？",
-      options: [
-        { text: "一発ギャグ", category: "バラエティ" },
-        { text: "ボケとツッコミのコンビネーション", category: "天然" },
-      ],
-    },
   ],
-  "不思議系": [
+  "ぶりっ子": [
     {
-      text: "直感で物事を決めるタイプ？",
-      options: [
-        { text: "はい", category: "不思議系" },
-        { text: "いいえ", category: "知的・しっかり者" },
-      ],
+      "text": "あざとさってどう思う？",
+      "options": [
+        { "text": "武器にしちゃえばいいと思う！", "category": "ぶりっ子" },
+        { "text": "ちょっと計算高いかも…", "category": "知的・しっかり者" }
+      ]
     },
     {
-      text: "夢占いに興味はある？",
-      options: [
-        { text: "興味津々", category: "不思議系" },
-        { text: "全く興味なし", category: "知的・しっかり者" },
-      ],
-    },
+      "text": "気になる人にどうアプローチする？",
+      "options": [
+        { "text": "さりげなく袖を引っ張る", "category": "ぶりっ子" },
+        { "text": "変化球で気持ちを伝える", "category": "天然" }
+      ]
+    }
   ],
   "モデル・ビジュアル": [
     {
@@ -72,17 +65,17 @@ export const categorizedQuestions = {
   ],
   "スポーツ・アクティブ": [
     {
-      text: "どんなスポーツが得意？",
+      text: "どんな動きが得意？",
       options: [
-        { text: "サッカー", category: "スポーツ・アクティブ" },
-        { text: "アーチェリー", category: "知的・しっかり者" },
+        { text: "走る・飛ぶなど身体能力系", category: "スポーツ・アクティブ" },
+        { text: "リズム感のある動き", category: "ダンスが上手い" },
       ],
     },
     {
       text: "体を動かすことに対して、どんな意識を持っている？",
       options: [
         { text: "健康のために運動している", category: "スポーツ・アクティブ" },
-        { text: "好きだから運動する", category: "王道アイドル" },
+        { text: "好きだから運動する", category: "ダンスが上手い" },
       ],
     },
   ],
@@ -120,10 +113,10 @@ export const categorizedQuestions = {
   ],
   "天然": [
     {
-      text: "天然な自分に自信がある？",
+      text: "数を数えるときに1ぱっこ2ぱっこと数える？",
       options: [
         { text: "はい", category: "天然" },
-        { text: "いいえ", category: "知的・しっかり者" },
+        { text: "そんなわけない", category: "知的・しっかり者" },
       ],
     },
     {
@@ -162,7 +155,7 @@ export const categorizedQuestions = {
       text: "歌うとき、どんな気持ちで歌う？",
       options: [
         { text: "感情を込めて歌う", category: "歌唱力が高い" },
-        { text: "リズムを意識して歌う", category: "王道アイドル" },
+        { text: "可愛さを意識して歌う", category: "ぶりっ子" },
       ],
     },
   ],
