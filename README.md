@@ -1,5 +1,55 @@
-# Vue 3 + Vite
+# 日向坂46 推しメン診断アプリ (Beta)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+![トップページイメージ](./screenshot.png)
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+Vue.js + Pinia による SPA 形式の診断アプリです。  
+12の個性カテゴリに関する質問に答えることで、あなたにぴったりの「日向坂46メンバー」を診断・提案します！
+
+---
+
+## 🚀 概要
+
+このアプリは、ユーザーが12カテゴリの質問に答えることで、スコアをカテゴリ別に蓄積し、  
+そのスコアに最もマッチしたメンバーを「推しメン」として提案する診断アプリです。
+
+### 🎯 カテゴリ一覧（例）
+
+- 王道アイドル
+- モデル・ビジュアル
+- スポーツ・アクティブ
+- 知的・しっかり者
+- 歌唱力が高い
+- ダンスが上手い
+…など全12カテゴリ
+
+---
+
+## 🛠 技術構成
+
+| 技術 | 用途 |
+|------|------|
+| Vue 3 + Composition API | フロントエンドフレームワーク |
+| Vue Router | ページ遷移管理 |
+| Pinia | ステート管理（スコアの蓄積・リセットなど） |
+| Tailwind CSS | スタイリング |
+| Vite | ビルドツール |
+
+---
+
+## 💖 クレジット
+
+- このアプリはファン制作の非公式プロジェクトです。
+- データは日向坂46公式サイト等を参考に作成されています。
+
+## 🧪 動作確認
+
+```bash
+# インストール
+npm install
+
+# 開発サーバ起動
+npm run dev
+
+# ビルド
+npm run build
+
