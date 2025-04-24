@@ -2,8 +2,8 @@ export const members = [
   {
     name: "金村美玖",
     categories: {
-      モデル・ビジュアル: 0.8,
-      バラエティ: 0.2,
+      モデル・ビジュアル: 0.7,
+      バラエティ: 0.3,
     },
     image: "/images/kanemura.jpg", 
     description: "クールビューティーアイドル。ちょっと負け癖があるのはご愛敬。"
@@ -92,8 +92,8 @@ export const members = [
   {
     name: "小西夏菜実",
     categories: {
-      モデル・ビジュアル: 0.7,
-      バラエティ: 0.3,
+      モデル・ビジュアル: 0.6,
+      バラエティ: 0.4,
     },
     image: "/images/nanami.jpg",
     description: "落ち着いた雰囲気と知的な魅力で注目を集める。"
@@ -137,8 +137,8 @@ export const members = [
   {
     name: "平岡海月",
     categories: {
-      スポーツ・アクティブ: 0.5,
-      歌唱力が高い: 0.5,
+      スポーツ・アクティブ: 0.6,
+      歌唱力が高い: 0.4,
     },
     image: "/images/mitsuki.jpg",
     description: "クールな外見と知的な雰囲気で人気上昇中。"
