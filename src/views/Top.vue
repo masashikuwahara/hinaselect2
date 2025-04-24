@@ -16,7 +16,7 @@
       {{ history.date }} {{ history.content }}
     </div>
     <div class="mt-4 text-white">
-      2.0.0-beta
+      2.1.1-beta
     </div>
   </div>
 </template>
@@ -32,6 +32,7 @@ const resetAndStart = () => {
 };
 
 const histories = ref([
+  { date: '2025.04.23', content: '設定値を変更' },
   { date: '2025.04.23', content: 'ベータ版' }
 ])
 </script>

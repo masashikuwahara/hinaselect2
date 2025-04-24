@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-screen bg-gradient-to-br from-[#7cc7e8] via-white to-[#ccefff]">
+  <div class="h-screen bg-gradient-to-r from-[#7cc7e8] via-[#add8e6] to-[#7cc7e8]">
     <div class="p-4 sm:p-6 max-w-md sm:max-w-xl mx-auto">
       <h2 class="text-xl sm:text-2xl font-bold text-center mb-6">
         質問 {{ currentIndex + 1 }} / {{ questions.length }}

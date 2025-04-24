@@ -26,7 +26,7 @@ const retry = () => {
 </script>
 
 <template>
-  <div class="min-h-screen bg-gradient-to-br from-[#7cc7e8] via-white to-[#ccefff]">
+  <div class="h-screen bg-gradient-to-r from-[#7cc7e8] via-[#add8e6] to-[#7cc7e8]">
     <div class="text-center p-6 max-w-xl mx-auto">
       <h2 class="text-2xl font-bold mb-6">診断結果</h2>
       <transition name="fade-slow" appear>
