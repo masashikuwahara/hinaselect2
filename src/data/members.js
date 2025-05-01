@@ -15,7 +15,7 @@ export const members = [
       天然: 0.3,
     },
     image: "/images/hina.jpg",
-    description: "おっとりした雰囲気で周囲を和ませる存在。"
+    description: "おっとりした雰囲気で周囲を和ませる永遠の妹キャラ。"
   },
   {
     name: "小坂菜緒",
@@ -78,7 +78,7 @@ export const members = [
       バラエティ: 0.4,
     },
     image: "/images/haruyo.jpg",
-    description: "アクティブな一面と可愛らしさを兼ね備える。"
+    description: "アクティブな一面と可愛らしさを兼ね備えるツンデレキャラ。"
   },
   {
     name: "石塚瑶季",
@@ -101,8 +101,8 @@ export const members = [
   {
     name: "清水理央",
     categories: {
-      スポーツ・アクティブ: 0.6,
-      王道アイドル: 0.4,
+      スポーツ・アクティブ: 0.7,
+      王道アイドル: 0.3,
     },
     image: "/images/rio.jpg",
     description: "正統派の美しさとスタイルでファンを魅了。"
@@ -119,8 +119,8 @@ export const members = [
   {
     name: "竹内希来里",
     categories: {
-      モデル・ビジュアル: 0.5,
-      癒し系: 0.5,
+      モデル・ビジュアル: 0.4,
+      癒し系: 0.6,
     },
     image: "/images/kirari.jpg",
     description: "明るい性格と元気なパフォーマンスで注目。"
