@@ -113,7 +113,7 @@ export const categorizedQuestions = {
   ],
   "天然": [
     {
-      text: "数を数えるときに1ぱっこ2ぱっこと数える？",
+      text: "物を数えるときに1ぱっこ2ぱっこと数える？",
       options: [
         { text: "はい", category: "天然" },
         { text: "そんなわけない", category: "知的・しっかり者" },
