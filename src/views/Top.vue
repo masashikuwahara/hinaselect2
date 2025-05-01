@@ -1,6 +1,6 @@
 <template>
   <div class="flex flex-col items-center justify-center h-screen bg-gradient-to-r from-[#7cc7e8] via-[#add8e6] to-[#7cc7e8]">
-    <h1 class="text-center text-4xl font-bold text-white mb-2">HINADX(beta)</h1>
+    <h1 class="text-center text-4xl font-bold text-white mb-2">HINASELECT2</h1>
     <p class="text-white mb-8">あなたに合った日向坂46メンバーの推しメンを診断します</p>
     <router-link to="/question">
       <button
@@ -17,7 +17,7 @@
       {{ history.date }} {{ history.content }}
     </div>
     <div class="mt-4 text-white">
-      2.1.2-beta
+      1.0.0
     </div>
   </div>
 </template>
@@ -33,7 +33,6 @@ const resetAndStart = () => {
 };
 
 const histories = ref([
-  { date: '2025.04.23', content: '設定値を変更' },
-  { date: '2025.04.23', content: 'ベータ版' }
+  { date: '2025.05.02', content: 'リリースしました' }
 ])
 </script>
