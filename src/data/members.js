@@ -179,4 +179,94 @@ export const members = [
     image: "/images/rina.jpg",
     description: "人生2週目疑惑があるほどのしっかり者。"
   },
+    {
+    name: "大田美月",
+    categories: {
+      知的・しっかり者: 0.6,
+      王道アイドル: 0.4,
+    },
+    image: "/images/.jpg",
+    description: "ここに説明"
+  },
+  {
+    name: "大野愛実",
+    categories: {
+      知的・しっかり者: 0.6,
+      王道アイドル: 0.4,
+    },
+    image: "/images/.jpg",
+    description: "ここに説明"
+  },
+  {
+    name: "片山紗希",
+    categories: {
+      知的・しっかり者: 0.6,
+      王道アイドル: 0.4,
+    },
+    image: "/images/.jpg",
+    description: "ここに説明"
+  },
+  {
+    name: "蔵盛妃那乃",
+    categories: {
+      知的・しっかり者: 0.6,
+      王道アイドル: 0.4,
+    },
+    image: "/images/.jpg",
+    description: "ここに説明"
+  },
+  {
+    name: "坂井新奈",
+    categories: {
+      知的・しっかり者: 0.6,
+      王道アイドル: 0.4,
+    },
+    image: "/images/.jpg",
+    description: "ここに説明"
+  },
+  {
+    name: "佐藤優羽",
+    categories: {
+      知的・しっかり者: 0.6,
+      王道アイドル: 0.4,
+    },
+    image: "/images/.jpg",
+    description: "ここに説明"
+  },
+  {
+    name: "下田衣珠季",
+    categories: {
+      知的・しっかり者: 0.6,
+      王道アイドル: 0.4,
+    },
+    image: "/images/.jpg",
+    description: "ここに説明"
+  },
+  {
+    name: "高井俐香",
+    categories: {
+      知的・しっかり者: 0.6,
+      王道アイドル: 0.4,
+    },
+    image: "/images/.jpg",
+    description: "ここに説明"
+  },
+  {
+    name: "鶴崎仁香",
+    categories: {
+      知的・しっかり者: 0.6,
+      王道アイドル: 0.4,
+    },
+    image: "/images/.jpg",
+    description: "ここに説明"
+  },
+  {
+    name: "松尾桜",
+    categories: {
+      知的・しっかり者: 0.6,
+      王道アイドル: 0.4,
+    },
+    image: "/images/.jpg",
+    description: "ここに説明"
+  },
 ];
