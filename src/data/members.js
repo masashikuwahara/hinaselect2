@@ -179,14 +179,14 @@ export const members = [
     image: "/images/rina.jpg",
     description: "人生2週目疑惑があるほどのしっかり者。"
   },
-    {
+  {
     name: "大田美月",
     categories: {
       知的・しっかり者: 0.6,
       王道アイドル: 0.4,
     },
-    image: "/images/.jpg",
-    description: "ここに説明"
+    image: "/images/oota_mizuki.jpg",
+    description: "（仮）真面目さとアイドルらしさを兼ね備えた注目メンバー。",
   },
   {
     name: "大野愛実",
@@ -194,8 +194,8 @@ export const members = [
       知的・しっかり者: 0.6,
       王道アイドル: 0.4,
     },
-    image: "/images/.jpg",
-    description: "ここに説明"
+    image: "/images/oono_manami.jpg",
+    description: "（仮）落ち着いた雰囲気と優しさが魅力。",
   },
   {
     name: "片山紗希",
@@ -203,8 +203,8 @@ export const members = [
       知的・しっかり者: 0.6,
       王道アイドル: 0.4,
     },
-    image: "/images/.jpg",
-    description: "ここに説明"
+    image: "/images/katayama_saki.jpg",
+    description: "（仮）知性と柔らかさを併せ持つ。",
   },
   {
     name: "蔵盛妃那乃",
@@ -212,8 +212,8 @@ export const members = [
       知的・しっかり者: 0.6,
       王道アイドル: 0.4,
     },
-    image: "/images/.jpg",
-    description: "ここに説明"
+    image: "/images/kuramori_hinano.jpg",
+    description: "（仮）ふんわりした印象と芯の強さが光る。",
   },
   {
     name: "坂井新奈",
@@ -221,8 +221,8 @@ export const members = [
       知的・しっかり者: 0.6,
       王道アイドル: 0.4,
     },
-    image: "/images/.jpg",
-    description: "ここに説明"
+    image: "/images/sakai_niina.jpg",
+    description: "（仮）堂々とした姿勢で新風を巻き起こす。",
   },
   {
     name: "佐藤優羽",
@@ -230,8 +230,8 @@ export const members = [
       知的・しっかり者: 0.6,
       王道アイドル: 0.4,
     },
-    image: "/images/.jpg",
-    description: "ここに説明"
+    image: "/images/satou_yuu.jpg",
+    description: "（仮）笑顔が魅力の新たな癒し系候補。",
   },
   {
     name: "下田衣珠季",
@@ -239,8 +239,8 @@ export const members = [
       知的・しっかり者: 0.6,
       王道アイドル: 0.4,
     },
-    image: "/images/.jpg",
-    description: "ここに説明"
+    image: "/images/shimoda_izuki.jpg",
+    description: "（仮）冷静さと華やかさを併せ持つ。",
   },
   {
     name: "高井俐香",
@@ -248,8 +248,8 @@ export const members = [
       知的・しっかり者: 0.6,
       王道アイドル: 0.4,
     },
-    image: "/images/.jpg",
-    description: "ここに説明"
+    image: "/images/takai_rika.jpg",
+    description: "（仮）知的でクールな雰囲気が印象的。",
   },
   {
     name: "鶴崎仁香",
@@ -257,8 +257,8 @@ export const members = [
       知的・しっかり者: 0.6,
       王道アイドル: 0.4,
     },
-    image: "/images/.jpg",
-    description: "ここに説明"
+    image: "/images/tsurusaki_niko.jpg",
+    description: "（仮）凛とした佇まいにファンの期待が集まる。",
   },
   {
     name: "松尾桜",
@@ -266,7 +266,7 @@ export const members = [
       知的・しっかり者: 0.6,
       王道アイドル: 0.4,
     },
-    image: "/images/.jpg",
-    description: "ここに説明"
+    image: "/images/matsuo_sakura.jpg",
+    description: "（仮）落ち着いた魅力と品の良さが光る。",
   },
 ];
