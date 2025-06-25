@@ -6,7 +6,7 @@ export const members = [
       バラエティ: 0.3,
     },
     image: "/images/kanemura.jpg", 
-    description: "クールビューティーアイドル。ちょっと負け癖があるのはご愛敬。"
+    description: "モデル活動や写真撮影にも積極的。撮影美術に敏感な繊細さと、やわらかな感性を持つ。"
   },
   {
     name: "河田陽菜",
@@ -15,7 +15,7 @@ export const members = [
       天然: 0.3,
     },
     image: "/images/hina.jpg",
-    description: "おっとりした雰囲気で周囲を和ませる永遠の妹キャラ。"
+    description: "愛称「恋愛製造機」。明るくムードメーカータイプで、バラエティ番組での活躍も目立つ。"
   },
   {
     name: "小坂菜緒",
@@ -24,7 +24,7 @@ export const members = [
       王道アイドル: 0.4,
     },
     image: "/images/nao.jpg",
-    description: "クールな外見と確かなパフォーマンスで魅了。日向坂46のセンター！"
+    description: "ニックネーム「こさかな」。安心感のある存在で、同期からも「いれば大丈夫！」と信頼されている。"
   },
   {
     name: "富田鈴花",
@@ -33,7 +33,7 @@ export const members = [
       歌唱力が高い: 0.4,
     },
     image: "/images/suzuka.jpg",
-    description: "明るいキャラクターで番組を盛り上げるオールラウンダー。こちらも負け癖が強い。"
+    description: "歌や楽器（ギター、ベース、ピアノ）のマルチな音楽スキルが抜群 。負け癖が強い。"
   },
   {
     name: "松田好花",
@@ -96,7 +96,7 @@ export const members = [
       バラエティ: 0.4,
     },
     image: "/images/nanami.jpg",
-    description: "落ち着いた雰囲気と知的な魅力で注目を集める。"
+    description: "関西弁を話す美容番長。キャッチフレーズや毒舌もあり、愛され天然キャラ "
   },
   {
     name: "清水理央",
@@ -105,7 +105,7 @@ export const members = [
       王道アイドル: 0.3,
     },
     image: "/images/rio.jpg",
-    description: "正統派の美しさとスタイルでファンを魅了。"
+    description: "甲子園出場のチア経験を持ち、センター経験もある運動神経抜群なストイックガール。"
   },
   {
     name: "正源司陽子",
@@ -114,7 +114,7 @@ export const members = [
       歌唱力が高い: 0.3,
     },
     image: "/images/youko.jpg",
-    description: "自然体の魅力で親しみやすさが光る。"
+    description: "楽器演奏（ギター・バイオリン・フルート）に長け、4期生のエース的存在。"
   },
   {
     name: "竹内希来里",
@@ -123,7 +123,7 @@ export const members = [
       癒し系: 0.6,
     },
     image: "/images/kirari.jpg",
-    description: "明るい性格と元気なパフォーマンスで注目。"
+    description: "地元テレビ番組に出演し活動的。強運を持つと評され、社交的で明るい性格。"
   },
   {
     name: "平尾帆夏",
@@ -132,7 +132,7 @@ export const members = [
       知的・しっかり者: 0.6,
     },
     image: "/images/hiraho.jpg",
-    description: "透き通る歌声で聴く人を魅了する実力派。"
+    description: "幼少期からピアノを嗜み、語彙豊富な毒舌キャラ。才女 × バラエティ。"
   },
   {
     name: "平岡海月",
@@ -141,7 +141,7 @@ export const members = [
       歌唱力が高い: 0.4,
     },
     image: "/images/mitsuki.jpg",
-    description: "クールな外見と知的な雰囲気で人気上昇中。"
+    description: "4期生最年長。お笑い好きでMCが得意、まとめ役として安定した存在。"
   },
   {
     name: "藤嶌果歩",
@@ -150,7 +150,7 @@ export const members = [
       癒し系: 0.2,
     },
     image: "/images/kaho.jpg",
-    description: "正統派の可愛らしさでファンを魅了。"
+    description: "書道と歌が得意。北海道出身、物静かで芯のある性格。"
   },
   {
     name: "宮地すみれ",
@@ -159,7 +159,7 @@ export const members = [
       ダンスが上手い: 0.2,
     },
     image: "/images/sumire.jpg",
-    description: "柔らかな雰囲気と自然体の魅力で注目を集める。"
+    description: "愛されぶりっ子キャラ。気配り上手で芯が強く引き締め役。"
   },
   {
     name: "山下葉留花",
@@ -168,7 +168,7 @@ export const members = [
       バラエティ: 0.3,
     },
     image: "/images/haruka.jpg",
-    description: "明るいキャラクターで番組を盛り上げるムードメーカー。"
+    description: "元OLで社会人経験あり。優しい性格、“聖母”タイプ。"
   },
   {
     name: "渡辺莉奈",
@@ -177,7 +177,7 @@ export const members = [
       王道アイドル: 0.4,
     },
     image: "/images/rina.jpg",
-    description: "人生2週目疑惑があるほどのしっかり者。"
+    description: "最年少で落ち着いた雰囲気。芸達者でCM出演経験もあり。"
   },
   {
     name: "大田美月",
