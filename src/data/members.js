@@ -2,7 +2,8 @@ export const members = [
   {
     name: "金村美玖",
     categories: {
-      モデル・ビジュアル: 0.7,
+      モデル・ビジュアル: 0.4,
+      ぶりっ子: 0.3,
       バラエティ: 0.3,
     },
     image: "/images/kanemura.jpg", 
@@ -11,8 +12,9 @@ export const members = [
   {
     name: "河田陽菜",
     categories: {
-      癒し系: 0.7,
+      癒し系: 0.5,
       天然: 0.3,
+      バラエティ: 0.2,
     },
     image: "/images/hina.jpg",
     description: "愛称「恋愛製造機」。明るくムードメーカータイプで、バラエティ番組での活躍も目立つ。"
@@ -20,8 +22,9 @@ export const members = [
   {
     name: "小坂菜緒",
     categories: {
-      モデル・ビジュアル: 0.6,
-      王道アイドル: 0.4,
+      モデル・ビジュアル: 0.5,
+      王道アイドル: 0.3,
+      知的・しっかり者: 0.2,
     },
     image: "/images/nao.jpg",
     description: "ニックネーム「こさかな」。安心感のある存在で、同期からも「いれば大丈夫！」と信頼されている。"
@@ -30,7 +33,8 @@ export const members = [
     name: "富田鈴花",
     categories: {
       バラエティ: 0.6,
-      歌唱力が高い: 0.4,
+      歌唱力が高い: 0.3,
+      スポーツ・アクティブ: 0.3,
     },
     image: "/images/suzuka.jpg",
     description: "歌や楽器（ギター、ベース、ピアノ）のマルチな音楽スキルが抜群 。負け癖が強い。"
@@ -38,8 +42,9 @@ export const members = [
   {
     name: "松田好花",
     categories: {
-      バラエティ: 0.7,
-      歌唱力が高い: 0.3,
+      知的・しっかり者: 0.6,
+      バラエティ: 0.3,
+      歌唱力が高い: 0.1,
     },
     image: "/images/konoka.jpg",
     description: "こちらも多才な才能で様々な場面で活躍するオールラウンダー。ややクレーム気質。"
@@ -47,8 +52,9 @@ export const members = [
   {
     name: "上村ひなの",
     categories: {
-      天然: 0.7,
+      天然: 0.5,
       癒し系: 0.3,
+      王道アイドル: 0.2,
     },
     image: "/images/hinano.jpg",
     description: "天才的な発想と純粋な魅力でファンを惹きつける。"
@@ -57,7 +63,8 @@ export const members = [
     name: "髙橋未来虹",
     categories: {
       スポーツ・アクティブ: 0.6,
-      知的・しっかり者: 0.4,
+      知的・しっかり者: 0.3,
+      ダンスが上手い: 0.2,
     },
     image: "/images/mikuni.jpg",
     description: "高身長を活かしたスタイルと明るい性格で人気上昇中。日向坂46の新キャプテン。"
@@ -66,7 +73,8 @@ export const members = [
     name: "森本茉莉",
     categories: {
       バラエティ: 0.7,
-      天然: 0.3,
+      天然: 0.2,
+      ぶりっ子: 0.1,
     },
     image: "/images/marie.jpg",
     description: "天真爛漫なキャラクターで番組を盛り上げる。激ヤバお嬢様アイドル。"
@@ -83,8 +91,9 @@ export const members = [
   {
     name: "石塚瑶季",
     categories: {
-      スポーツ・アクティブ: 0.4,
       バラエティ: 0.6,
+      スポーツ・アクティブ: 0.3,
+      ぶりっ子: 0.1,
     },
     image: "/images/tamaki.jpg",
     description: "いつでも元気!柔らかな笑顔で周囲を和ませる存在。"
@@ -110,7 +119,8 @@ export const members = [
   {
     name: "正源司陽子",
     categories: {
-      王道アイドル: 0.7,
+      王道アイドル: 0.6,
+      知的・しっかり者: 0.3,
       歌唱力が高い: 0.3,
     },
     image: "/images/youko.jpg",
@@ -119,8 +129,9 @@ export const members = [
   {
     name: "竹内希来里",
     categories: {
-      モデル・ビジュアル: 0.4,
-      癒し系: 0.6,
+      癒し系: 0.4,
+      モデル・ビジュアル: 0.3,
+      王道アイドル: 0.3,
     },
     image: "/images/kirari.jpg",
     description: "地元テレビ番組に出演し活動的。強運を持つと評され、社交的で明るい性格。"
@@ -128,8 +139,9 @@ export const members = [
   {
     name: "平尾帆夏",
     categories: {
-      癒し系: 0.4,
       知的・しっかり者: 0.6,
+      癒し系: 0.3,
+      バラエティ: 0.1,
     },
     image: "/images/hiraho.jpg",
     description: "幼少期からピアノを嗜み、語彙豊富な毒舌キャラ。才女 × バラエティ。"
@@ -137,8 +149,9 @@ export const members = [
   {
     name: "平岡海月",
     categories: {
-      スポーツ・アクティブ: 0.6,
-      歌唱力が高い: 0.4,
+      歌唱力が高い: 0.5,
+      バラエティ: 0.3,
+      スポーツ・アクティブ: 0.2,
     },
     image: "/images/mitsuki.jpg",
     description: "4期生最年長。お笑い好きでMCが得意、まとめ役として安定した存在。"
@@ -146,8 +159,9 @@ export const members = [
   {
     name: "藤嶌果歩",
     categories: {
-      歌唱力が高い: 0.8,
-      癒し系: 0.2,
+      歌唱力が高い: 0.5,
+      癒し系: 0.3,
+      王道アイドル: 0.2,
     },
     image: "/images/kaho.jpg",
     description: "書道と歌が得意。北海道出身、物静かで芯のある性格。"
@@ -155,8 +169,9 @@ export const members = [
   {
     name: "宮地すみれ",
     categories: {
-      ぶりっ子: 0.8,
+      ぶりっ子: 0.7,
       ダンスが上手い: 0.2,
+      知的・しっかり者: 0.1,
     },
     image: "/images/sumire.jpg",
     description: "愛されぶりっ子キャラ。気配り上手で芯が強く引き締め役。"
@@ -165,7 +180,8 @@ export const members = [
     name: "山下葉留花",
     categories: {
       天然: 0.7,
-      バラエティ: 0.3,
+      バラエティ: 0.2,
+      癒し系: 0.1,
     },
     image: "/images/haruka.jpg",
     description: "元OLで社会人経験あり。優しい性格、“聖母”タイプ。"
@@ -173,8 +189,9 @@ export const members = [
   {
     name: "渡辺莉奈",
     categories: {
-      知的・しっかり者: 0.6,
       王道アイドル: 0.4,
+      知的・しっかり者: 0.3,
+      バラエティ: 0.3,
     },
     image: "/images/rina.jpg",
     description: "最年少で落ち着いた雰囲気。芸達者でCM出演経験もあり。"
