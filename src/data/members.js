@@ -2,9 +2,10 @@ export const members = [
   {
     name: "金村美玖",
     categories: {
-      モデル・ビジュアル: 0.4,
+      モデル・ビジュアル: 0.5,
+      ダンスが上手い: 0.3,
       ぶりっ子: 0.3,
-      バラエティ: 0.3,
+      バラエティ: 0.2,
     },
     image: "/images/kanemura.jpg", 
     description: "モデル活動や写真撮影にも積極的。撮影美術に敏感な繊細さと、やわらかな感性を持つ。"
@@ -14,7 +15,7 @@ export const members = [
     categories: {
       癒し系: 0.5,
       天然: 0.3,
-      バラエティ: 0.2,
+      バラエティ: 0.3,
     },
     image: "/images/hina.jpg",
     description: "愛称「恋愛製造機」。明るくムードメーカータイプで、バラエティ番組での活躍も目立つ。"
@@ -103,6 +104,7 @@ export const members = [
     categories: {
       モデル・ビジュアル: 0.6,
       バラエティ: 0.4,
+      ダンスが上手い: 0.1,
     },
     image: "/images/nanami.jpg",
     description: "関西弁を話す美容番長。キャッチフレーズや毒舌もあり、愛され天然キャラ "
@@ -199,8 +201,9 @@ export const members = [
   {
     name: "大田美月",
     categories: {
-      知的・しっかり者: 0.6,
-      王道アイドル: 0.4,
+      癒し系:0.7,
+      天然: 0.3,
+      バラエティ: 0.2,
     },
     image: "/images/oota_mizuki.jpg",
     description: "（仮）真面目さとアイドルらしさを兼ね備えた注目メンバー。",
@@ -208,8 +211,9 @@ export const members = [
   {
     name: "大野愛実",
     categories: {
-      知的・しっかり者: 0.6,
-      王道アイドル: 0.4,
+      王道アイドル: 0.5,
+      モデル・ビジュアル: 0.3,
+      癒し系: 0.2,
     },
     image: "/images/oono_manami.jpg",
     description: "（仮）落ち着いた雰囲気と優しさが魅力。",
@@ -217,8 +221,9 @@ export const members = [
   {
     name: "片山紗希",
     categories: {
-      知的・しっかり者: 0.6,
-      王道アイドル: 0.4,
+      モデル・ビジュアル: 0.5,
+      スポーツ・アクティブ: 0.3,
+      王道アイドル: 0.2,
     },
     image: "/images/katayama_saki.jpg",
     description: "（仮）知性と柔らかさを併せ持つ。",
@@ -226,8 +231,9 @@ export const members = [
   {
     name: "蔵盛妃那乃",
     categories: {
-      知的・しっかり者: 0.6,
-      王道アイドル: 0.4,
+      癒し系: 0.4,
+      ダンスが上手い: 0.3,
+      王道アイドル: 0.3,
     },
     image: "/images/kuramori_hinano.jpg",
     description: "（仮）ふんわりした印象と芯の強さが光る。",
@@ -235,8 +241,9 @@ export const members = [
   {
     name: "坂井新奈",
     categories: {
-      知的・しっかり者: 0.6,
       王道アイドル: 0.4,
+      天然: 0.2,
+      癒し系: 0.2,
     },
     image: "/images/sakai_niina.jpg",
     description: "（仮）堂々とした姿勢で新風を巻き起こす。",
@@ -245,7 +252,7 @@ export const members = [
     name: "佐藤優羽",
     categories: {
       知的・しっかり者: 0.6,
-      王道アイドル: 0.4,
+      スポーツ・アクティブ: 0.4,
     },
     image: "/images/satou_yuu.jpg",
     description: "（仮）笑顔が魅力の新たな癒し系候補。",
