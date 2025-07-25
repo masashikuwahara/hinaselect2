@@ -201,7 +201,7 @@ export const members = [
   {
     name: "大田美月",
     categories: {
-      癒し系:0.7,
+      ダンスが上手い:0.5,
       天然: 0.3,
       バラエティ: 0.2,
     },
@@ -252,7 +252,8 @@ export const members = [
     name: "佐藤優羽",
     categories: {
       知的・しっかり者: 0.6,
-      スポーツ・アクティブ: 0.4,
+      スポーツ・アクティブ: 0.2,
+      ぶりっ子: 0.2,
     },
     image: "/images/satou_yuu.jpg",
     description: "（仮）笑顔が魅力の新たな癒し系候補。",
@@ -260,8 +261,8 @@ export const members = [
   {
     name: "下田衣珠季",
     categories: {
-      知的・しっかり者: 0.6,
-      王道アイドル: 0.4,
+      天然: 0.6,
+      癒し系: 0.4,
     },
     image: "/images/shimoda_izuki.jpg",
     description: "（仮）冷静さと華やかさを併せ持つ。",
@@ -269,8 +270,9 @@ export const members = [
   {
     name: "高井俐香",
     categories: {
-      知的・しっかり者: 0.6,
-      王道アイドル: 0.4,
+      知的・しっかり者: 0.5,
+      王道アイドル: 0.3,
+      癒し系: 0.2,
     },
     image: "/images/takai_rika.jpg",
     description: "（仮）知的でクールな雰囲気が印象的。",
@@ -279,7 +281,7 @@ export const members = [
     name: "鶴崎仁香",
     categories: {
       知的・しっかり者: 0.6,
-      王道アイドル: 0.4,
+      癒し系: 0.4,
     },
     image: "/images/tsurusaki_niko.jpg",
     description: "（仮）凛とした佇まいにファンの期待が集まる。",
@@ -287,8 +289,9 @@ export const members = [
   {
     name: "松尾桜",
     categories: {
-      知的・しっかり者: 0.6,
-      王道アイドル: 0.4,
+      モデル・ビジュアル: 0.5,
+      歌唱力が高い: 0.4,
+      王道アイドル: 0.1,
     },
     image: "/images/matsuo_sakura.jpg",
     description: "（仮）落ち着いた魅力と品の良さが光る。",
