@@ -206,7 +206,7 @@ export const members = [
       バラエティ: 0.2,
     },
     image: "/images/oota_mizuki.jpg",
-    description: "（仮）真面目さとアイドルらしさを兼ね備えた注目メンバー。",
+    description: "ピンクが大好きの不思議少女。",
   },
   {
     name: "大野愛実",
@@ -216,7 +216,7 @@ export const members = [
       癒し系: 0.2,
     },
     image: "/images/oono_manami.jpg",
-    description: "（仮）落ち着いた雰囲気と優しさが魅力。",
+    description: "新世代の王道アイドル。",
   },
   {
     name: "片山紗希",
@@ -226,7 +226,7 @@ export const members = [
       王道アイドル: 0.2,
     },
     image: "/images/katayama_saki.jpg",
-    description: "（仮）知性と柔らかさを併せ持つ。",
+    description: "チアダンスが得意なウサギっ子。",
   },
   {
     name: "蔵盛妃那乃",
