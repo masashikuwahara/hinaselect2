@@ -236,7 +236,7 @@ export const members = [
       王道アイドル: 0.3,
     },
     image: "/images/kuramori_hinano.jpg",
-    description: "（仮）ふんわりした印象と芯の強さが光る。",
+    description: "日本舞踊が得意なはんなり和風娘。",
   },
   {
     name: "坂井新奈",
@@ -246,7 +246,7 @@ export const members = [
       癒し系: 0.2,
     },
     image: "/images/sakai_niina.jpg",
-    description: "（仮）堂々とした姿勢で新風を巻き起こす。",
+    description: "ちょっとおバカな帰国子女。",
   },
   {
     name: "佐藤優羽",
@@ -256,7 +256,7 @@ export const members = [
       ぶりっ子: 0.2,
     },
     image: "/images/satou_yuu.jpg",
-    description: "（仮）笑顔が魅力の新たな癒し系候補。",
+    description: "萌え声を持つ薙刀麻雀少女。",
   },
   {
     name: "下田衣珠季",
@@ -265,7 +265,7 @@ export const members = [
       癒し系: 0.4,
     },
     image: "/images/shimoda_izuki.jpg",
-    description: "（仮）冷静さと華やかさを併せ持つ。",
+    description: "おバカなニューヒロイン。",
   },
   {
     name: "高井俐香",
@@ -275,7 +275,7 @@ export const members = [
       癒し系: 0.2,
     },
     image: "/images/takai_rika.jpg",
-    description: "（仮）知的でクールな雰囲気が印象的。",
+    description: "虎党で乗馬が得意なお嬢様アイドル。",
   },
   {
     name: "鶴崎仁香",
@@ -284,7 +284,7 @@ export const members = [
       癒し系: 0.4,
     },
     image: "/images/tsurusaki_niko.jpg",
-    description: "（仮）凛とした佇まいにファンの期待が集まる。",
+    description: "知的で冷静なしっかり者",
   },
   {
     name: "松尾桜",
@@ -294,6 +294,6 @@ export const members = [
       王道アイドル: 0.1,
     },
     image: "/images/matsuo_sakura.jpg",
-    description: "（仮）落ち着いた魅力と品の良さが光る。",
+    description: "料理が得意なマイペース",
   },
 ];
