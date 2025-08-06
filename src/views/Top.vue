@@ -17,7 +17,7 @@
       {{ history.date }} {{ history.content }}
     </div>
     <div class="mt-4 text-white">
-      1.0.0
+      1.1.0
     </div>
   </div>
 </template>
@@ -33,6 +33,7 @@ const resetAndStart = () => {
 };
 
 const histories = ref([
+  { date: '2025.08.07', content: '五期生に対応、カテゴリとスコアの再調整をしました' },
   { date: '2025.05.02', content: 'リリースしました' }
 ])
 </script>
