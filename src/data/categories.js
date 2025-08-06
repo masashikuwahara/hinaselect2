@@ -39,4 +39,8 @@ export const categories = {
     label: "歌唱力が高い",
     color: "#EF4444", // 赤系
   },
+    "不思議系": {
+    label: "予測不能な性格",
+    color: "#A78BFA", // ラベンダー（神秘的・個性派）
+  },
 };
