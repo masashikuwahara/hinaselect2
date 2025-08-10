@@ -8,7 +8,7 @@ export const categorizedQuestions = {
       ],
     },
     {
-      text: "アイドルをやるとするとどんなことに喜びを感じると思う？",
+      text: "アイドルをやったとしたらどんなことに喜びを感じると思う？",
       options: [
         { text: "ファンの笑顔を見られること", category: "王道アイドル" },
         { text: "ステージ上で自分の歌声を届けられること", category: "歌唱力が高い" },
@@ -17,7 +17,7 @@ export const categorizedQuestions = {
   ],
   "バラエティ": [
     {
-      text: "日向坂で会いましょう！で面白い企画はどっち？",
+      text: "冠番組の日向坂で会いましょう！で面白い企画はどっち？",
       options: [
         { text: "THE タイマン", category: "バラエティ" },
         { text: "ぶりっ子大喜利", category: "ぶりっ子" },
