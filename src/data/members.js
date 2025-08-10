@@ -47,7 +47,7 @@ export const members = [
       "バラエティ": 0.4
     },
     "image": "/images/konoka.jpg",
-    "description": "こちらも多才な才能で様々な場面で活躍するオールラウンダー。ややクレーム気質。"
+    "description": "多才な才能で様々な場面で活躍するオールラウンダー。ややクレーム気質。"
   },
   {
     "name": "上村ひなの",
@@ -165,7 +165,7 @@ export const members = [
       "王道アイドル": 0.2
     },
     "image": "/images/kaho.jpg",
-    "description": "書道と歌が得意。北海道出身、物静かで芯のある性格。"
+    "description": "書道と歌が得意。北海道出身、物静かで芯のある性格。ギャル気質。"
   },
   {
     "name": "宮地すみれ",
@@ -185,7 +185,7 @@ export const members = [
       "バラエティ": 0.2,
     },
     "image": "/images/haruka.jpg",
-    "description": "元OLで社会人経験あり。優しい性格、“聖母”タイプ。"
+    "description": "元OLで社会人経験あり。予測不能な言動はファンを惑わす。"
   },
   {
     "name": "渡辺莉奈",
@@ -195,7 +195,7 @@ export const members = [
       "バラエティ": 0.3
     },
     "image": "/images/rina.jpg",
-    "description": "最年少で落ち着いた雰囲気。芸達者でCM出演経験もあり。"
+    "description": "最年少で落ち着いた雰囲気。人生二週目疑惑あり。"
   },
   {
     "name": "大田美月",
@@ -284,7 +284,7 @@ export const members = [
       "癒し系": 0.4
     },
     "image": "/images/niko.jpg",
-    "description": "知的で冷静なしっかり者"
+    "description": "知的で冷静なしっかり者。"
   },
   {
     "name": "松尾桜",
